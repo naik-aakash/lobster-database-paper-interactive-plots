@@ -1,2 +1,1 @@
-# database-paper-interactive-plots
-Repository consisting of interactive analysis plots
+This repository consists of analysis plots from the LOBSTER database publication 
