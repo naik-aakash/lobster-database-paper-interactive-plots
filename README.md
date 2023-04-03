@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/621807112.svg)](https://zenodo.org/badge/latestdoi/621807112)
+
 This repository consists of analysis plots from the LOBSTER database publication 
 
 
